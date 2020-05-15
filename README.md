@@ -3,7 +3,7 @@ Task Manager using Vanilla JS
 ###### Author: Meghnath Das
 
 ### Technologies Used
-- Vanila Javascript 
+- Jquery 
 - HTML and CSS 
 - GitHub Hosting
 
