@@ -1,9 +1,9 @@
 # TaskManager
-Task Manager using Vanilla JS
+Task Manager using JQuery
 ###### Author: Meghnath Das
 
 ### Technologies Used
-- Jquery 
+- JQuery 
 - HTML and CSS 
 - GitHub Hosting
 
